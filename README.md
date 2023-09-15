@@ -1,7 +1,5 @@
 # Generalized_fuzzy_neural_network_public
-This repository contains code related to the paper, "Predicting Need for Heart Failure Advanced Therapies using an Interpretable Tropical Geometry-based Fuzzy Neural Network"
-
-# Predicting Need for Heart Failure Advanced Therapies using an Interpretable Tropical Geometry-based Fuzzy Neural Network
+This repository contains code related to the paper, **_Predicting Need for Heart Failure Advanced Therapies using an Interpretable Tropical Geometry-based Fuzzy Neural Network_**
 
 @Author: 
 

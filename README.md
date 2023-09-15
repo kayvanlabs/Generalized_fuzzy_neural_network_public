@@ -5,8 +5,8 @@ This repository contains code related to the paper, "Predicting Need for Heart F
 
 @Author: 
 
-Yufeng Zhang chloezh@umich.edu
-Heming Yao
+- Yufeng Zhang chloezh@umich.edu
+- Heming Yao
 
 **Required Packages**
 - torhc==1.12.1

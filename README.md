@@ -7,7 +7,7 @@ This repository contains code related to the paper, **_Predicting Need for Heart
 - Heming Yao
 
 **Required Packages**
-- torhc==1.12.1
+- torch==1.12.1
 - numpy==1.21.6
 - pandas==1.4.1
 - scikit-learn==1.2.2
@@ -24,3 +24,8 @@ This repository contains code related to the paper, **_Predicting Need for Heart
    * rule extraction
 3. data load
    * cannot be share the UM patient dataset due to data privacy
+  
+### Run the code
+```
+python main_cv.py
+```
